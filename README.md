@@ -1,0 +1,1 @@
+# Sample theme integration
